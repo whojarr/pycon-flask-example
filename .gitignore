@@ -1,0 +1,7 @@
+__pycache__
+.serverless
+.requirements
+node_modules
+.project
+.pydevproject
+package-lock.json
